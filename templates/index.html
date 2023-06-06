@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Image Captioning + ChatGPT</title>
+  </head>
+  <body>
+    <h1> Image Captioning + ChatGPT</h1>
+    <from method="post" enctype="multipart/form-data">
+      <label for="image">Upload Image:</label>
+      <input type="file" id="image" name="image" accept="image/*" required><br><br>
+      <label for="prompt">Enter Prompt:</label>
+      <input type="text" id="prompt" name="prompt" required><br><br>
+      <input type="submit" value="Generate">
+      </form>
+    <br>
+    {% if caption %}
+    <h2>Generated Caption:</h2>
+    <p>{{ caption }}</p>
+    {% endif %}
+    <br>
+    {% if prompt %}
+    <h2>Prompt:</h2>
+    <p>{{ prompt }}</p>
+    {% endif %}
+    <br>
+    {% if text_output %}
+    <h2>Generated Text Output: </h2>
+    <p>{{ text_output }}</p}
+    {% endif %}
+  </body>
+ </html>
