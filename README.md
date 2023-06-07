@@ -13,7 +13,7 @@ https://huggingface.co/spaces/rimssss/bliptrial
     <img width="531" alt="Image1" src="https://github.com/paradise110302/Bpil-gpt1/assets/67607497/1c48894b-ce11-4aa9-a576-8bfc4073ee22">
     <img width="950" alt="image" src="https://github.com/paradise110302/Bpil-gpt1/assets/67607497/cfb2ce0f-5f2e-405b-857e-e6699580f43b">
 
-<h3>And thus the model was able to generate "catchy" (as prompted by the user) captions which can easily be used as an actual caption for social media posts.</h3>
+<h3>And thus the model was able to generate "catchy", "innovative" and " exciting" (as prompted by the user) captions which can easily be used as an actual caption for social media posts.</h3>
     
     
 <h2>Requirements:</h2>
