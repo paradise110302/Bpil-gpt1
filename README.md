@@ -1,4 +1,4 @@
-<h1><Image Caption Generator></h1>
+<h1>Image Caption Generator</h1>
     
 <h3>After researching multiple models I came across BLIP by salesforce and tried implementing the model on hugging space. I received successful results but the gneerated caption was simply a description of the image.</h3>
     https://huggingface.co/docs/transformers/model_doc/blip
@@ -10,9 +10,10 @@ https://huggingface.co/spaces/rimssss/bliptrial
     <img width="946" alt="image" src="https://github.com/paradise110302/Bpil-gpt1/assets/67607497/51aaf7b6-36ec-4270-8283-4926beed8946">
 <h3>And thus the model was able to generate "catchy" (as prompted by the user) captions which can easily be used as an actual caption for social media posts.</h3>
     
-    <h2>Requirements</h2>
-    <h4> -Transformer </h4>
-    <h4> -Torch </h4>
-    <h4> - Flask </h4>
+    
+<h2>Requirements:</h2>
+<h4> -Transformer </h4>
+<h4> -Torch </h4>
+<h4> - Flask </h4>
 
     
