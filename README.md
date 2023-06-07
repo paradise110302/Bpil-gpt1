@@ -1,6 +1,6 @@
 <h1>Image Caption Generator</h1>
     
-<h3>After researching multiple models I came across BLIP by salesforce and tried implementing the model on hugging space. I received successful results but the gneerated caption was simply a description of the image.</h3>
+<h3>After researching multiple models I came across BLIP by salesforce and tried implementing the model on a Huggingface space. I received successful results but the gneerated caption was simply a description of the image.</h3>
     https://huggingface.co/docs/transformers/model_doc/blip
 https://huggingface.co/spaces/rimssss/bliptrial
 <img width="859" alt="image" src="https://github.com/paradise110302/Bpil-gpt1/assets/67607497/a7e01925-120f-4427-ae2e-19590adf2fcd">
